@@ -1,6 +1,7 @@
+<h1 align="center">Hi 👋, I'm Dhruba</h1>  
+  
+<h3 align="center"> Passionate Laravel Full Stack Developer </h3>
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=⚔️%20Dhruba%20Charan%20Behera%20⚔️&reversal=false&textBg=false&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=Laravel%20Developer%20•%20Backend%20Engineer%20•%20AI%20Explorer&descAlign=50&descAlignY=60" />
 
 # 🥷 Welcome To My Digital Dojo
 
@@ -10,31 +11,8 @@
 
 ---
 
-# ⚔️ About Me
+## Life Philosophy:
 ```yaml
-Name: Dhruba Charan Behera
-Role: Laravel Full Stack Developer
-
-Current Focus:
-  - Laravel 13
-  - PHP 8.3
-  - Docker
-  - AI Integrations
-  - Scalable APIs
-  - Queue Systems
-
-Currently Learning:
-  - Kubernetes
-  - Golang
-  - AI SDKs
-  - System Design
-
-Interests:
-  - Anime
-  - Photography
-  - Open Source
-
-Life Philosophy:
   "Discipline turns code into craftsmanship."
 ```
 
@@ -60,11 +38,46 @@ Life Philosophy:
 
 <div align="center">
 
-## 💻 Backend & Database
+## 💻 Backend Development
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white)
+
+---
+
+## 🌐 Frontend Development
+
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-black?style=for-the-badge&logo=jquery&logoColor=blue)
+
+---
+
+## 🎨 UI Frameworks & Styling
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+## ⚛️ Frontend Frameworks & Libraries
+
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+---
+
+## 🗄️ Databases
+
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
 
 ## ⚙️ DevOps & Tools
 
@@ -73,10 +86,13 @@ Life Philosophy:
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-## 🧠 AI & Modern Tech
+---
+
+## 🤖 AI & Modern Technologies
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-grey?style=for-the-badge)
+![AI SDK](https://img.shields.io/badge/AI_SDK-red?style=for-the-badge)
 
 </div>
 
@@ -121,24 +137,9 @@ Life Philosophy:
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/vivekmaurya_563](https://www.instagram.com/dhruba_charan_behera)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/vivek563maurya](https://www.linkedin.com/in/dhruba-charan-behera-314205200/))
-<div align="center">
-
-<a href="https://www.linkedin.com/in/dhruba-charan-behera-314205200/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="https://www.instagram.com/dhruba_charan_behera?igsh=MXRiN2p1ejRlOG15cQ==">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-</div>
 
 ---
 
 # ⚔️ Walk The Path Of Code With Honor ⚔️
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>
-
-</div>
