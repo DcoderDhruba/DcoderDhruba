@@ -65,7 +65,6 @@ Life Philosophy:
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis&logoColor=white)
 
 ## ⚙️ DevOps & Tools
 
@@ -77,26 +76,10 @@ Life Philosophy:
 ## 🧠 AI & Modern Tech
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 </div>
 
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DcoderDhruba&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DcoderDhruba&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=DcoderDhruba&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # 🐍 Contribution Snake
 
