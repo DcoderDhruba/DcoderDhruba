@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Dhruba</h1>  
-  
-<h3 align="center"> Passionate Laravel Full Stack Developer </h3>
-<div align="center">
+# Hi 👋, I'm Dhruba  
+
+## Passionate Laravel Full Stack Developer
+
 
 # 🥷 Welcome To My Digital Dojo
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Code+Like+A+Samurai+⚔️;Laravel+%7C+PHP+%7C+Node+%7C+AI;Building+Scalable+Backend+Systems;Backend+Engineering+With+Precision;Always+Learning+New+Technologies+🚀" />
-
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=FF0000&center=false&vCenter=false&width=900&lines=Code+Like+A+Samurai+⚔️;Laravel+%7C+PHP+%7C+Node+%7C+AI;Building+Scalable+Backend+Systems;Backend+Engineering+With+Precision;Always+Learning+New+Technologies+🚀" />
 
 ---
 
@@ -76,7 +74,6 @@
 ![REST API](https://img.shields.io/badge/REST_API-grey?style=for-the-badge)
 ![AI SDK](https://img.shields.io/badge/AI_SDK-red?style=for-the-badge)
 
----
 
 # 🐍 Contribution Snake
 
@@ -96,8 +93,6 @@
 - ☁️ Learn Kubernetes & cloud-native deployment
 - 🔥 Contribute more to open source
 
----
-
 # 🌌 Favorite Quote
 
 <div align="center">
@@ -105,20 +100,6 @@
 > ### “The warrior who conquers himself is greater than the one who conquers a thousand enemies.”
 
 </div>
-
----
-
-# 🎌 Anime Energy
-
-# 🎌 Anime Energy
-
-<div align="center">
-
-<img width="700" src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif"/>
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/vivekmaurya_563](https://www.instagram.com/dhruba_charan_behera)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/vivek563maurya](https://www.linkedin.com/in/dhruba-charan-behera-314205200/))
