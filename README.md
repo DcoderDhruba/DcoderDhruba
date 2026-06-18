@@ -11,13 +11,9 @@
 ---
 
 # ⚔️ About Me
-
-<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJzY3Q3MG5xZWhxM2lydnJ0cGN6c3hyN3MwZW1vM3J6bndvZGs5MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l4FGGafcOHmrlQxG0/giphy.gif"/>
-
 ```yaml
 Name: Dhruba Charan Behera
-Role: Laravel Backend Developer
-Location: India 🇮🇳
+Role: Laravel Full Stack Developer
 
 Current Focus:
   - Laravel 13
@@ -34,9 +30,7 @@ Currently Learning:
   - System Design
 
 Interests:
-  - Cinematic Design
   - Anime
-  - Samurai Philosophy
   - Photography
   - Open Source
 
@@ -94,11 +88,11 @@ Life Philosophy:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DcoderDhruba&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DcoderDhruba&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=DcoderDhruba&theme=tokyonight&hide_border=true"/>
 
 </div>
 
