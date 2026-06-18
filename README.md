@@ -122,7 +122,7 @@ Life Philosophy:
 ---
 
 # 🌐 Connect With Me
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/vivekmaurya_563](https://www.instagram.com/dhruba_charan_behera)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/vivek563maurya](https://www.linkedin.com/in/dhruba-charan-behera-314205200/))
 <div align="center">
 
 <a href="https://www.linkedin.com/in/dhruba-charan-behera-314205200/">
