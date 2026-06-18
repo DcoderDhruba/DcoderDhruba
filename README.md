@@ -5,7 +5,7 @@
 
 # 🥷 Welcome To My Digital Dojo
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Code+Like+A+Samurai+⚔️;Laravel+%7C+PHP+%7C+Docker+%7C+AI;Building+Scalable+Backend+Systems;Backend+Engineering+With+Precision;Always+Learning+New+Technologies+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Code+Like+A+Samurai+⚔️;Laravel+%7C+PHP+%7C+Node+%7C+AI;Building+Scalable+Backend+Systems;Backend+Engineering+With+Precision;Always+Learning+New+Technologies+🚀" />
 
 </div>
 
@@ -20,8 +20,6 @@
 
 # 🥷 Samurai Mindset
 
-<div align="center">
-
 | ⚔️ Principle | 🧠 Meaning |
 |---|---|
 | Discipline | Write clean and maintainable code |
@@ -30,13 +28,9 @@
 | Curiosity | Stay inquisitive and keep learning |
 | Honor | Build reliable systems |
 
-</div>
-
 ---
 
 # 🚀 Tech Stack
-
-<div align="center">
 
 ## 💻 Backend Development
 
@@ -44,8 +38,6 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white)
-
----
 
 ## 🌐 Frontend Development
 
@@ -55,14 +47,10 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-black?style=for-the-badge&logo=jquery&logoColor=blue)
 
----
-
 ## 🎨 UI Frameworks & Styling
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
 
 ## ⚛️ Frontend Frameworks & Libraries
 
@@ -70,14 +58,10 @@
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
----
-
 ## 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
 
 ## ⚙️ DevOps & Tools
 
@@ -86,16 +70,13 @@
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
----
-
 ## 🤖 AI & Modern Technologies
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
 ![REST API](https://img.shields.io/badge/REST_API-grey?style=for-the-badge)
 ![AI SDK](https://img.shields.io/badge/AI_SDK-red?style=for-the-badge)
 
-</div>
-
+---
 
 # 🐍 Contribution Snake
 
@@ -129,9 +110,11 @@
 
 # 🎌 Anime Energy
 
+# 🎌 Anime Energy
+
 <div align="center">
 
-<img width="700" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img width="700" src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif"/>
 
 </div>
 
@@ -142,4 +125,4 @@
 
 ---
 
-# ⚔️ Walk The Path Of Code With Honor ⚔️
+## Walk The Path Of Code With Honor 
