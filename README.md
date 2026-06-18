@@ -1,11 +1,7 @@
-# Hi 👋, I'm Dhruba  
-
-## Passionate Laravel Full Stack Developer
-
 <h1> Hey👋, Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Dhruba, Fullstack developer from 🇮🇳 <b>Stockholm, Sweden</b>. </p>
+<p>Welcome to my page! </br> I'm Dhruba, Fullstack developer from <b>India</b>. </p>
 # 🥷 Welcome To My Digital Dojo
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=FF0000&center=false&vCenter=false&width=900&lines=Code+Like+A+Samurai+⚔️;Laravel+%7C+PHP+%7C+Node+%7C+AI;Building+Scalable+Backend+Systems;Backend+Engineering+With+Precision;Always+Learning+New+Technologies+🚀" />
