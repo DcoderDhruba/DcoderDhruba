@@ -1,108 +1,105 @@
-<h1> Hey👋, Nice to see you.</h1>
+# Hi there 👋 I'm Dhruba Charan
 
+### Full Stack Developer | Laravel • Node.js • React • AI Enthusiast
 
-<p>Welcome to my page! </br> I'm Dhruba, Fullstack developer from <b>India</b>. </p>
-# 🥷 Welcome To My Digital Dojo
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=FF0000&center=false&vCenter=false&width=900&lines=Code+Like+A+Samurai+⚔️;Laravel+%7C+PHP+%7C+Node+%7C+AI;Building+Scalable+Backend+Systems;Backend+Engineering+With+Precision;Always+Learning+New+Technologies+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&width=700&lines=Full+Stack+Developer;Laravel+%7C+Node.js+%7C+React;Building+Scalable+Applications;Exploring+AI+and+Modern+Web+Technologies;Always+Learning+🚀" />
 
 ---
 
-## Life Philosophy:
-```yaml
-  "Discipline turns code into craftsmanship."
-```
+## ⚔️ About Me
+
+I'm a passionate Full Stack Developer from India 🇮🇳 who enjoys building scalable web applications, APIs, and AI-powered solutions.
+
+I focus on creating clean architecture, maintainable code, and high-performance systems that solve real-world problems.
+
+### Current Focus
+
+* 🚀 Advanced Backend Architecture
+* ⚡ High Performance APIs
+* 🤖 AI Integration & Automation
+* ☁️ Docker, Kubernetes & Cloud Deployment
+* 📚 Continuous Learning
 
 ---
 
-# 🥷 Samurai Mindset
+## 🧠 Developer Philosophy
 
-| ⚔️ Principle | 🧠 Meaning |
-|---|---|
-| Discipline | Write clean and maintainable code |
-| Consistency | Improve every day |
-| Precision | Optimize performance carefully |
-| Curiosity | Stay inquisitive and keep learning |
-| Honor | Build reliable systems |
+> "Discipline turns code into craftsmanship."
+
+I believe that great software is built through:
+
+* ⚔️ Discipline
+* 🎯 Precision
+* 🔥 Consistency
+* 🚀 Curiosity
+* 🤝 Reliability
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
-## 💻 Backend Development
+### Backend
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express)
 
-## 🌐 Frontend Development
+### Frontend
 
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-black?style=for-the-badge&logo=jquery&logoColor=blue)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge\&logo=vuedotjs\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 
-## 🎨 UI Frameworks & Styling
+### Database
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
 
-## ⚛️ Frontend Frameworks & Libraries
+### DevOps & Tools
 
-![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx)
 
-## 🗄️ Databases
+### AI & Modern Development
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge\&logo=openai)
+![REST API](https://img.shields.io/badge/REST_API-00599C?style=for-the-badge)
+![AI SDK](https://img.shields.io/badge/AI_SDK-FF4D4D?style=for-the-badge)
 
-## ⚙️ DevOps & Tools
+---
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=yellow)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+## 🐍 Contribution Snake
 
-## 🤖 AI & Modern Technologies
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
-![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
-![REST API](https://img.shields.io/badge/REST_API-grey?style=for-the-badge)
-![AI SDK](https://img.shields.io/badge/AI_SDK-red?style=for-the-badge)
+---
 
+## 🎯 2026 Goals
 
-# 🐍 Contribution Snake
+* Build production-grade AI applications
+* Master Distributed Systems
+* Learn Kubernetes deeply
+* Contribute to Open Source
+* Share knowledge through technical content
+
+---
+
+## 🌍 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/dhruba-charan-behera-314205200/)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/dhruba_charan_behera/)
+
+---
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+### ⚔️ Code With Discipline. Build With Purpose.
+
+*"The warrior who conquers himself is greater than the one who conquers a thousand enemies."*
 
 </div>
-
----
-
-# 🧠 Current Goals
-
-- 🚀 Master scalable backend architecture
-- ⚔️ Become an expert in distributed systems
-- 🤖 Build AI-powered Laravel applications
-- ☁️ Learn Kubernetes & cloud-native deployment
-- 🔥 Contribute more to open source
-
-# 🌌 Favorite Quote
-
-<div align="center">
-
-> ### “The warrior who conquers himself is greater than the one who conquers a thousand enemies.”
-
-</div>
-
-## 🌐 Connect With Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dhruba_charan_behera/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruba-charan-behera-314205200/)
----
-
-## Walk The Path Of Code With Honor 
